@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a graduate in Master of Data Science - Computational Linguistic graduate at UBC.
+I am a Graduate in Master of Data Science - Computational Linguistic at UBC.
 
 - 😄 Pronouns: she/her
 - 📫 How to reach me: sheena.salwan@gmail.com
