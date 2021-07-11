@@ -2,7 +2,6 @@
 
 - 😄 Pronouns: she/her
 - 📫 How to reach me: sheena.salwan@gmail.com
-- 🌱 I’m currently learning data science, specialized in natural language processing
 - 👯 I’m looking to collaborate on data science projects
 <!--
 **sheenasalwan/sheenasalwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
