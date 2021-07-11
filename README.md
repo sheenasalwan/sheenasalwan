@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am a Graduate in Master of Data Science - Computational Linguistic at the University of British Columbia (UBC).
-
 - 😄 Pronouns: she/her
 - 📫 How to reach me: sheena.salwan@gmail.com
 - 🌱 I’m currently learning data science, specialized in natural language processing
